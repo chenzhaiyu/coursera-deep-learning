@@ -2,3 +2,5 @@
 /Certificate/*
 /Questions/*
 /Financial/*
+.swp
+.gitignore.swp
