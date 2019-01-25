@@ -1,3 +1,3 @@
 # Coursera Deep Learning Specialization
 
-Course material (e.g., lecture slides, quizzes, programming assignments), Updating with my study progress.
+Deep Learning Specialization course material (e.g., lecture slides, quizzes, programming assignments), updating with my study progress.
