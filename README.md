@@ -2,7 +2,7 @@
 
 Deep Learning Specialization course material (e.g., lecture slides, quizzes, programming assignments), updating with my study progress.
 
-### Courses Outline
+## Courses Outline
 
 - **Neural Networks and Deep Learning**
     - Week 1 - Introduction to Deep Learning
@@ -15,8 +15,8 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
     - Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
     
 - **Structuring Machine Learning Projects**
-    - Week 1 - Machine Learning Strategy (1)
-    - Week 2 - Machine Learning Strategy (2)
+    - Week 1 - Machine Learning Strategy 1
+    - Week 2 - Machine Learning Strategy 2
     
 - **Convolutional Neural Networks**
     - Week 1 - Foundations of Convolutional Neural Networks
@@ -29,7 +29,7 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
     - Week 2 - Natural Language Processing & Word Embeddings
     - Week 3 - Sequence models & Attention mechanism
 
-### Remarks
+## Remarks
 
 Some course resources are currently unavailable to download (e.g., Jupyter notebooks in Sequential Model course), which I collected from [Kulbear](https://github.com/Kulbear/deep-learning-coursera).
 
