@@ -9,7 +9,7 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
     - Week 2 - Neural Networks Basics
     - Week 3 - Shallow Neural Networks
     
-- **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+- **Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
     - Week 1 - Practical Aspects of Deep Learning
     - Week 2 - Optimization Algorithms
     - Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
