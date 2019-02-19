@@ -33,22 +33,22 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
 ```
 # TODO: update and index all notebooks
 ```
-- [Logistic Regression with a Neural Network Mindset](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural Networks and Deep Learning/Notebooks/Logistic Regression with a Neural Network mindset v5.ipynb)
-- [Planar Data Classification with One Hidden Layer](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural Networks and Deep Learning/Notebooks/Planar data classification with one hidden layer v5.ipynb)
-- [Building Your Deep Neural Network: Step by Step](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural Networks and Deep Learning/Notebooks/Building your Deep Neural Network - Step by Step v8.ipynb)
-- [Deep Neural Network for Image Classification: Application](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural Networks and Deep Learning/Notebooks/Deep Neural Network - Application v8.ipynb)
-- [Initialization](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving Deep Neural Networks/Notebooks/Initialization.ipynb)
-- [Regularization](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving Deep Neural Networks/Notebooks/Regularization - v2.ipynb)
-- [Gradient Checking](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving Deep Neural Networks/Notebooks/Gradient Checking v1.ipynb)
-- [Optimization Methods](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving Deep Neural Networks/Notebooks/Optimization methods.ipynb)
-- [TensorFlow Tutorial](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving Deep Neural Networks/Notebooks/Tensorflow Tutorial.ipynb)
-- [Convolutional Model: Step by Step](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Convolution model - Step by Step - v2.ipynb)
-- [Convolutional Model: Application](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Convolution model - Application - v1.ipynb)
-- [Keras - Tutorial - Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Keras - Tutorial - Happy House v2.ipynb)
-- [Residual Networks](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Residual Networks - v2.ipynb)
-- [Car Detection with YOLOv2](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Autonomous driving application - Car detection - v3.ipynb)
-- [Art Generation with Neural Style Transfer](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Art Generation with Neural Style Transfer - v2.ipynb)
-- [Face Recognition for the Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional Neural Networks/Notebooks/Face Recognition for the Happy House - v3.ipynb)
+- [Logistic Regression with a Neural Network Mindset](https://github.com/realczy/CourseraDeepLearning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Notebooks/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
+- [Planar Data Classification with One Hidden Layer](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Notebooks/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5.ipynb)
+- [Building Your Deep Neural Network: Step by Step](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Notebooks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)
+- [Deep Neural Network for Image Classification: Application](https://github.com/realczy/CourseraDeepLearning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Notebooks/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+- [Initialization](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving%20Deep%20Neural%20Networks/Notebooks/Initialization.ipynb)
+- [Regularization](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving%20Deep%20Neural%20Networks/Notebooks/Regularization%20-%20v2.ipynb)
+- [Gradient Checking](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving%20Deep%20Neural%20Networks/Notebooks/Gradient%20Checking%20v1.ipynb)
+- [Optimization Methods](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving%20Deep%20Neural%20Networks/Notebooks/Optimization%20methods.ipynb)
+- [TensorFlow Tutorial](https://github.com/realczy/CourseraDeepLearning/tree/master/Improving%20Deep%20Neural%20Networks/Notebooks/Tensorflow%20Tutorial.ipynb)
+- [Convolutional Model: Step by Step](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
+- [Convolutional Model: Application](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+- [Keras - Tutorial - Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
+- [Residual Networks](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Residual%20Networks%20-%20v2.ipynb)
+- [Car Detection with YOLOv2](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
+- [Art Generation with Neural Style Transfer](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+- [Face Recognition for the Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 - Building a Recurrent Neural Network - Step by Step
 - Character level language model - Dinosaurus Land
 
