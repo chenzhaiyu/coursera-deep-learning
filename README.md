@@ -49,13 +49,14 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
 - [Car Detection with YOLOv2](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
 - [Art Generation with Neural Style Transfer](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
 - [Face Recognition for the Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
-- Building a Recurrent Neural Network - Step by Step
-- Dinosaurus Land - Character-Level Language Model
-- Jazz improvisation with LSTM
-- Operations on Word Vectors - Debiasing
-- Emojify
-- Neural Machine Translation with Attention 
-- Trigger Word Detection
+- [Building a Recurrent Neural Network - Step by Step](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+- [Dinosaurus Land - Character-Level Language Model](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+- [Jazz improvisation with LSTM](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+- [Operations on Word Vectors](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Operations%20on%20word%20vectors%20-%20v2.ipynb) 
+- Debiasing
+- [Emojify](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Emojify%20-%20v2.ipynb)
+- [Neural Machine Translation with Attention](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb) 
+- [Trigger Word Detection](https://github.com/realczy/CourseraDeepLearning/blob/master/Sequential%20Models/Notebooks/Trigger%20word%20detection%20-%20v1.ipynb)
 
 ## Remarks
 
