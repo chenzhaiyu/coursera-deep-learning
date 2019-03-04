@@ -50,7 +50,12 @@ Deep Learning Specialization course material (e.g., lecture slides, quizzes, pro
 - [Art Generation with Neural Style Transfer](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
 - [Face Recognition for the Happy House](https://github.com/realczy/CourseraDeepLearning/tree/master/Convolutional%20Neural%20Networks/Notebooks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 - Building a Recurrent Neural Network - Step by Step
-- Character level language model - Dinosaurus Land
+- Dinosaurus Land - Character-Level Language Model
+- Jazz improvisation with LSTM
+- Operations on Word Vectors - Debiasing
+- Emojify
+- Neural Machine Translation with Attention 
+- Trigger Word Detection
 
 ## Remarks
 
